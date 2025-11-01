@@ -1,0 +1,5 @@
+{
+  "name": "Ponto Certo - Gestão de Jornada",
+  "description": "Um aplicativo web completo para funcionários registrarem suas horas de trabalho, intervalos, visitas a clientes e fazerem solicitações de ajuste, folga e férias. Inclui cálculo de jornada e um painel de controle intuitivo.",
+  "requestFramePermissions": []
+}
